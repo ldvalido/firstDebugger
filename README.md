@@ -1,3 +1,3 @@
 # firstDebugger
 
-Basic debugger only for discovery purposes
+Basic debugger only for discover purposes
